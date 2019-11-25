@@ -1,0 +1,1 @@
+android_kernel_firestick4k_mt8695
